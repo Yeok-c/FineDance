@@ -36,7 +36,7 @@ smpl_trans = data[:, :3]
 
 
 ### Prepare
-Download the pretrained checkpoints adnd other needed assets files from [Google Drive](https://drive.google.com/file/d/1ENoeUn-X-3Vw2Gon-voVLlndy3hZXdWD/view?usp=drive_link).
+Please Download the pretrained checkpoints and other needed assets files from [Google Drive](https://drive.google.com/file/d/1ENoeUn-X-3Vw2Gon-voVLlndy3hZXdWD/view?usp=drive_link).
 
 Install the conda enviroment.
 
